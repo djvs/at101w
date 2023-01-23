@@ -1,0 +1,25 @@
+Drill report for at101w.kicad_pcb
+Created on Mon 23 Jan 2023 05:11:56 PM EST
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'at101w-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (202 holes)
+    T2  0.900mm  0.0354"  (12 holes)
+    T3  1.470mm  0.0579"  (248 holes)
+    T4  3.683mm  0.1450"  (5 holes)
+
+    Total plated holes count 467
+
+
+Drill file 'at101w-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
